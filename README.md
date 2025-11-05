@@ -46,8 +46,9 @@ Cozmo ⇔ Raspberry Pi 5 ⇔ (Optional Webserver)
 
 Install dependencies:
 ```bash
-pip install -r requirements.txt
+do not use this yet. pip install -r requirements.txt
 
+File structure
 /cozmo_freeroam/
   core/
     control.py
