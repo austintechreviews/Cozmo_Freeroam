@@ -61,5 +61,5 @@ def stream_camera(cli):
         print(f"Error: {e}")
         root.quit()
 
-with pycozmo.connect(enable_procedural_face=False) as cli:
-    stream_camera(cli)
+if __name__ == "__main__":
+    stream_camera(None)
