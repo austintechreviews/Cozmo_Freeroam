@@ -15,12 +15,12 @@ The goal is to make Cozmo fully autonomous, expressive, and interactive — blen
 ---
 
 ## ⚙️ Core Features
-- **Free Exploration:** Smooth, random, and safe movement.  
-- **Vision:** Face, object, and cube recognition using OpenCV.  
-- **Expression:** Dynamic screen emotions and responsive behaviors.  
-- **Pathing:** Path creation, saving, and replay.  
-- **AI Layer:** Basic reinforcement learning and mapping.  
-- **Optional Web App:** Remote monitoring and map visualization.  
+- **Free Exploration:** Smooth, random, and safe movement.  WIP
+- **Vision:** Face, object, and cube recognition using OpenCV.  WIP
+- **Expression:** Dynamic screen emotions and responsive behaviors.  WIP
+- **Pathing:** Path creation, saving, and replay.  WIP
+- **AI Layer:** Basic reinforcement learning and mapping.  WIP
+- **Optional Web App:** Remote monitoring and map visualization.  WIP
 
 ---
 
