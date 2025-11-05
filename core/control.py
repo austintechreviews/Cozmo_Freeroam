@@ -110,6 +110,9 @@ def show_expression(cli, expression, head_angle=None, hold_seconds=1):
             for _ in range(rate * max(0, hold_seconds)):
                 timer.sleep()
 
+def camera_stream(cli):
+
+
 with pycozmo.connect(enable_procedural_face=False) as cli:
     wakeup(cli)
-    show_expression(cli, "Happiness", head_angle=1.0, hold_seconds=2,)
+    show_expression(cli, "Happiness", head_angle=1.0, hold_seconds=2)
